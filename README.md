@@ -23,3 +23,7 @@ go: downloading golang.org/x/text v0.27.0
 % go run greeter_client/main.go
 2025/11/10 12:46:35 Greeting: Hello world
 ```
+
+## Basics tutorial
+
+
